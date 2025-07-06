@@ -1,8 +1,8 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = "Megakit"
-Paginate = 20
 PaginatePath = "/"
+pagination.pageSize = 20
 summaryLength = 10
 
 [taxonomies]
